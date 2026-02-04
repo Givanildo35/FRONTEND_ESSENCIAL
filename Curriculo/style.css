@@ -6,8 +6,10 @@ body{
 #header-principal{
     background: linear-gradient(135deg, rgb(143, 102, 90)0%,rgba(237,221,83,1)100%);
     color: rgb(0, 0, 0);
-    padding: 20px;
+    padding: 10px;
     text-align: center;
+    width: 80%;
+    margin: 0 auto;
 }
    
 .card{
